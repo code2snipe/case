@@ -6,10 +6,10 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> a 3d modle teacher can help me learn physics chem   also i dont need funding
+> a 3d modle teacher can help me learn physics chem ont a scrren in front to teach me
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Warm-up | Tier 1 | 0h | 0 |
+| Warm-up | Tier 3 | 0h | 0 |
 
 _No entries logged yet._
